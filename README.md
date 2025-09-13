@@ -1,7 +1,4 @@
-# Project Title
 
-A short description of your project.  
-(Example: An online grocery ordering system built with Django and React.)
 
 ## Tech Stack 🛠️
 
