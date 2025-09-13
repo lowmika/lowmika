@@ -1,16 +1,18 @@
-## Hi there 👋
+# Project Title
 
-<!--
-**lowmika/lowmika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A short description of your project.  
+(Example: An online grocery ordering system built with Django and React.)
 
-Here are some ideas to get you started:
+## Tech Stack 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages 💻
+- C 🟦, C++ ➕, PHP 🐘, HTML 🌐, CSS 🎨, JavaScript ✨, TypeScript 🔷, R 📊
+
+### Databases 🗄️
+- SQL 🐘, MongoDB 🍃
+
+### Web & Application Frameworks 🌐
+- React ⚛️, Node.js 🟩, Next.js ⏭️, Android Studio 🤖
+
+### Tools & Deployment ⚙️
+- VS Code 🖊️, AWS ☁️, OnRender 🚀, Vercel ⚡
