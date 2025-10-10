@@ -107,14 +107,6 @@ const lowmika = {
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
----
-
 ## 💡 Core Competencies
 
 <table align="center">
@@ -196,12 +188,6 @@ I'm always excited to collaborate on innovative projects, especially in **AI/ML*
 
 <div align="center">
   
-### 📈 Profile Views Counter
-  
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
-
-</div>
-
 ---
 
 <div align="center">
