@@ -1,15 +1,217 @@
+# <div align="center">👋 Hi, I'm Lowmika Lambotharajothy</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;AI+%26+ML+Explorer;Problem+Solver+%26+Creator" alt="Typing SVG" />
+</div>
 
-## Tech Stack 🛠️
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lowmika01@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+  
+</div>
 
-### Programming Languages 💻
-- C 🟦, C++ ➕, PHP 🐘, HTML 🌐, CSS 🎨, JavaScript ✨, TypeScript 🔷, R 📊
+---
 
-### Databases 🗄️
-- SQL 🐘, MongoDB 🍃
+## 🚀 About Me
 
-### Web & Application Frameworks 🌐
-- React ⚛️, Node.js 🟩, Next.js ⏭️, Android Studio 🤖
+```typescript
+const lowmika = {
+    location: "Jaffna, Sri Lanka 🇱🇰",
+    education: "B.Sc. IT @ SLIIT (2027)",
+    currentFocus: ["MERN Stack", "AI & ML", "Startup Opportunities"],
+    passions: ["Coding", "Motorcycles 🏍️", "Art 🎨"],
+    motto: "Building the future, one commit at a time"
+};
+```
 
-### Tools & Deployment ⚙️
-- VS Code 🖊️, AWS ☁️, OnRender 🚀, Vercel ⚡
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 💫 Quick Highlights
+
+- 🎓 IT Undergraduate specializing in **Full-Stack Development**
+- 💻 Deep diving into **MERN Stack** architecture
+- 🤖 Exploring **AI/ML** for real-world applications
+- 🌱 Always learning, always growing
+- 🎯 Open to **startup collaborations** and **innovative projects**
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,php,java,html,css,tailwind" alt="Tech Stack" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,mysql" alt="Tools" />
+</p>
+
+### 🌱 Currently Exploring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,docker" alt="Learning" />
+</p>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+### 🏨 VALDORE - Hotel Management System
+**MERN Stack | MongoDB | Express.js | React.js | Node.js**
+
+> A comprehensive hotel management platform streamlining room bookings, staff management, and guest operations with a modern, responsive interface.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_VALDORE_REPO_URL)
+
+---
+
+### 📚 OTT BRIGHT PATH - Learning Platform
+**PHP | JavaScript | HTML | CSS | MySQL**
+
+> Web-based learning platform delivering seamless online education and skill development experiences.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_BRIGHTPATH_REPO_URL)
+
+---
+
+### 🛒 ZESTY MART - Online Grocery Platform
+**Java | JavaScript | HTML | CSS**
+
+> User-friendly grocery shopping platform designed for convenient online purchasing with smooth UX.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_ZESTYMART_REPO_URL)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+---
+
+## 💡 Core Competencies
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      
+### 🎯 Technical Skills
+      
+- MERN Stack Development
+- RESTful API Design
+- Object-Oriented Programming
+- Database Management (MySQL, MongoDB)
+- Responsive UI Design (TailwindCSS)
+- Git Version Control
+- TypeScript & Framer Motion
+      
+    </td>
+    <td align="center" width="50%">
+      
+### 🌟 Soft Skills
+      
+- Collaborative Team Player
+- Problem-Solving Mindset
+- Event Planning & Organization
+- Clear Communication
+- Attention to Detail
+- Self-Learning & Adaptability
+- Project Documentation
+      
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌍 Languages
+
+<div align="center">
+  
+| Language | Proficiency |
+|----------|-------------|
+| 🇱🇰 Tamil | Native/Bilingual |
+| 🇬🇧 English | Professional Working |
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+I'm always excited to collaborate on innovative projects, especially in **AI/ML** and **startup ventures**!
+
+📧 **Email:** lowmika01@gmail.com  
+📱 **Phone:** +94 75 458 8448  
+📍 **Location:** Jaffna, Sri Lanka
+
+### 🤝 Open to:
+- Full-Stack Development Projects
+- AI/ML Collaborations
+- Startup Opportunities
+- Open Source Contributions
+- Mentorship & Learning
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📈 Profile Views Counter
+  
+![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75" />
+</div>
+
+---
+
+<div align="center">
+  
+**⭐ If you like my work, consider starring my repositories!**
+
+</div>
