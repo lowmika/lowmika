@@ -57,38 +57,6 @@ const lowmika = {
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-### 🏨 VALDORE - Hotel Management System
-**MERN Stack | MongoDB | Express.js | React.js | Node.js**
-
-> A comprehensive hotel management platform streamlining room bookings, staff management, and guest operations with a modern, responsive interface.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_VALDORE_REPO_URL)
-
----
-
-### 📚 OTT BRIGHT PATH - Learning Platform
-**PHP | JavaScript | HTML | CSS | MySQL**
-
-> Web-based learning platform delivering seamless online education and skill development experiences.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_BRIGHTPATH_REPO_URL)
-
----
-
-### 🛒 ZESTY MART - Online Grocery Platform
-**Java | JavaScript | HTML | CSS**
-
-> User-friendly grocery shopping platform designed for convenient online purchasing with smooth UX.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_ZESTYMART_REPO_URL)
-
-</div>
-
----
 
 ## 💡 Core Competencies
 
