@@ -112,8 +112,7 @@ const lowmika = {
   
 I'm always excited to collaborate on innovative projects, especially in **AI/ML** and **startup ventures**!
 
-📧 **Email:** lowmika01@gmail.com  
-📱 **Phone:** +94 75 458 8448  
+📧 **Email:** lowmika01@gmail.com
 📍 **Location:** Jaffna, Sri Lanka
 
 ### 🤝 Open to:
